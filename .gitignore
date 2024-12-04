@@ -14,9 +14,6 @@ wp-config.php
 # Example plugin
 /wp-content/plugins/hello.php
 
-# Ignore WooCommerce core files
-/wp-content/plugins/woocommerce/
-
 # Uploads
 /wp-content/uploads/
 /wp-content/cache/
